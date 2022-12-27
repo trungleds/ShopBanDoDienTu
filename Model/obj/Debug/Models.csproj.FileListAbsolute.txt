@@ -1,0 +1,16 @@
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\Model.dll
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\Model.pdb
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\obj\Debug\Model.dll
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\obj\Debug\Model.pdb
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\Model.dll.config
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\EntityFramework.dll
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\PagedList.dll
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\PagedList.Mvc.dll
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\EntityFramework.xml
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\PagedList.xml
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\bin\Debug\PagedList.Mvc.xml
+C:\D\ThucTap\demoMVC\ShopBanDT\Model\obj\Debug\Models.csproj.CopyComplete
